@@ -1,4 +1,4 @@
-# Task Manager MEAN Stack Web App
+# Spotify Data Visualization App (Frontend with React)
 A Spotify Data Visualization app [frontend] using React, Node.js to visualize music listened to over the year.
 
 
