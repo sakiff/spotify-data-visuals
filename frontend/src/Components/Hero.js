@@ -4,8 +4,11 @@ import musicGif from '../../src/musicGif.gif'
 const Hero = () => {
   return (
     <>
-      <img src={musicGif} className='App-logo' alt='logo' />
-      <p>SPOTIFY DATA VISUALS</p>
+      <p className='hero-heading'>SPOTIFY DATA VISUALS</p>
+      <img src={musicGif} className='App-logo' alt='logo' width='200px' />
+      <a href='https://www.spotify.com'>
+        <button className='login-button'>Try it out!</button>
+      </a>
     </>
   )
 }
